@@ -1,0 +1,10 @@
+[theme]
+# Blue is the main accent colour; green is used inside the charts and badges.
+primaryColor = "#2563eb"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
